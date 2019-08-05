@@ -8,3 +8,5 @@
 5. append
 6. resize 
 7. insert 
+
+### (Dynamic Arrays were also used)
